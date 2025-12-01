@@ -1,0 +1,41 @@
+{
+  "name": "@yxsifdev/utils",
+  "version": "0.0.1",
+  "author": "yxsifdev",
+  "description": "Lightweight collection of reusable utilities for JavaScript and TypeScript.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yxsifdev/utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yxsifdev/utils/issues"
+  },
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsup src/index.ts --format esm,cjs --dts",
+    "dev": "tsup src/index.ts --format esm,cjs --dts --watch"
+  },
+  "keywords": [
+    "utils",
+    "utilities",
+    "javascript",
+    "typescript",
+    "helpers",
+    "toolkit"
+  ],
+  "private": false,
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^9.39.1",
+    "prettier": "^3.7.3",
+    "tsup": "^8.5.1",
+    "typescript": "^5.9.3"
+  }
+}
