@@ -2,9 +2,9 @@
   "compilerOptions": {
     "outDir": "dist",
     "rootDir": "src",
-    "target": "es2022",
-    "module": "nodenext",
-    "moduleResolution": "nodenext",
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "bundler",
     "declaration": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
