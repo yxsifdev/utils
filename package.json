@@ -29,6 +29,9 @@
     "helpers",
     "toolkit"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "private": false,
   "license": "MIT",
   "type": "module",
