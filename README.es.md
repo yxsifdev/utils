@@ -12,7 +12,7 @@ Diseñada para ser **rápida, tipada, modular y sin dependencias**.
 
 
 [![NPM Version](https://img.shields.io/npm/v/@yxsifdev/utils.svg)](https://www.npmjs.com/package/@yxsifdev/utils)
-[![License](https://img.shields.io/npm/l/@yxsifdev/utils.svg)](./LICENSE)
+[![License](https://img.shields.io/npm/l/%40yxsifdev%2Futils.svg)](./LICENSE)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue)
 ![ESM & CJS](https://img.shields.io/badge/ESM-CJS-green)
 </div>

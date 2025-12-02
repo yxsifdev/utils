@@ -11,7 +11,7 @@ Designed to be **fast, typed, modular, and dependency-free**.
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./README.es.md)
 
 [![NPM Version](https://img.shields.io/npm/v/@yxsifdev/utils.svg)](https://www.npmjs.com/package/@yxsifdev/utils)
-[![License](https://img.shields.io/npm/l/@yxsifdev/utils.svg)](./LICENSE)
+[![License](https://img.shields.io/npm/l/%40yxsifdev%2Futils.svg)](./LICENSE)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue)
 ![ESM & CJS](https://img.shields.io/badge/ESM-CJS-green)
 </div>
