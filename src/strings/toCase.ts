@@ -18,7 +18,7 @@ const pascalRegex = /(^\p{L}|[^\p{L}\p{N}]+(\p{L}))/gu;
  * toCase('hello world', 'snake'); // 'hello_world'
  */
 export function toCase(content: string, caseType: CaseType): string {
-  if (!content && !caseType) return '';
+  if (!content || !caseType) return '';
   switch (caseType) {
     case 'camel':
       return content
